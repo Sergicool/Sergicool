@@ -1,8 +1,12 @@
-<h3 align="left">Hi 👋</h3>
+<h2 align="left">Hi 👋</h2>
 
 ###
 
-<h4 align="left">Languages ​​and tools used</h4>
+<p align="left">Currently studing a degree in computer engineering</p>
+
+###
+
+<h3 align="left">Languages ​​and tools used</h3>
 
 ###
 
@@ -50,7 +54,7 @@
 
 ###
 
-<h4 align="left">Social</h4>
+<h3 align="left">Social</h3>
 
 ###
 
