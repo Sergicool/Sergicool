@@ -72,7 +72,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Sergicool/Sergicool/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
-###
