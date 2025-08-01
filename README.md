@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">Languages ​​and tools used</h3>
+## ☕ Languages ​​and tools used
 
 ###
 
@@ -22,6 +22,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" height="30" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
@@ -50,11 +56,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="30" alt="godot logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="30" alt="godot logo"  />
 </div>
 
 ###
 
-<h3 align="left">Social</h3>
+## 📡 Social
 
 ###
 
@@ -66,9 +74,17 @@
 
 ###
 
+## 📊 Summary
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sergicool&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sergicool&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)"/>
+  <a href="https://github.com/Sergicool">
+    <img src="https://github-readme-stats.vercel.app/api?username=Sergicool&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" 
+         alt="Sergicool's GitHub Stats" height="200"/>
+  </a>
+  <a href="https://github.com/Sergicool">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sergicool&theme=vue-dark&layout=compact&hide_border=true" 
+         alt="Top Languages" height="200"/>
+  </a>
 </div>
 
 ###
