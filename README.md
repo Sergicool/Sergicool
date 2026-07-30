@@ -8,7 +8,7 @@
 
 <table width="100%">
   <tr>
-    <td align="center" width="180"><b>Languages</b></td>
+    <td align="center" width="1000"><b>Languages</b></td>
     <td width="100%">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="32" alt="Java"/>&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="JS"/>&nbsp;
